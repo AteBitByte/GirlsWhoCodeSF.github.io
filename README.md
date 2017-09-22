@@ -1,4 +1,27 @@
-## Welcome to GitHub Pages
+# Chapter Details
+
+Students must register at [hq.girlswhocode.com](http://hq.girlswhocode.com).
+
+## Club Code: `CA2463`
+
+## Time
+Every Thursday from 6:30PM to 8:30PM. 
+
+## Location
+The [Ortega library](https://sfpl.org/index.php?pg=0100001601) located at [3223 Ortega Street, San Francisco, 94122](https://www.google.com/maps/dir/''/3223+Ortega+St+San+Francisco,+CA+94122).
+
+## Facilitators
+
+### Amy Yin
+### Cindy Gao
+### Estelle Puccio
+### Allison Phillips
+### Cissy Chen
+
+<!-- ## Contact
+girlswhocodesf@googlegroups.com -->
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GirlsWhoCodeSF/GirlsWhoCodeSF.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +58,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
