@@ -1,3 +1,5 @@
+<img src="https://github.com/GirlsWhoCodeSF/GirlsWhoCodeSF.github.io/blob/master/GWC-logo_2016-white-on-green.jpg" />
+
 # Chapter Details
 
 Students must register at <a href="http://hq.girlswhocode.com" target="_blank">hq.girlswhocode.com</a>.
