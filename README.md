@@ -2,13 +2,21 @@
 
 Students must register at [hq.girlswhocode.com](http://hq.girlswhocode.com).
 
+----
+
 ## Club Code: `CA2463`
+
+----
 
 ## Time
 Every Thursday from 6:30PM to 8:30PM. 
 
+----
+
 ## Location
 The [Ortega library](https://sfpl.org/index.php?pg=0100001601) located at [3223 Ortega Street, San Francisco, 94122](https://www.google.com/maps/dir/''/3223+Ortega+St+San+Francisco,+CA+94122).
+
+---- 
 
 ## Facilitators
 
@@ -18,8 +26,11 @@ The [Ortega library](https://sfpl.org/index.php?pg=0100001601) located at [3223 
 ### Allison Phillips
 ### Cissy Chen
 
+----
+
 <!-- ## Contact
 girlswhocodesf@googlegroups.com -->
+
 
 <!-- ## Welcome to GitHub Pages
 
