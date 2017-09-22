@@ -1,4 +1,4 @@
-<a href="http://hq.girlswhocode.com" target="_blank"><img src="/GWC-logo_2016-white-on-green.jpg" href="hq.girlswhocode.com"/></a>
+<a href="http://hq.girlswhocode.com" target="_blank"><img src="/GWC-logo_2016-white-on-green.jpg" /></a>
 
 # Chapter Details
 
