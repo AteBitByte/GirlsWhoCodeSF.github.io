@@ -1,4 +1,4 @@
-<img src="https://github.com/GirlsWhoCodeSF/GirlsWhoCodeSF.github.io/blob/master/GWC-logo_2016-white-on-green.jpg" />
+<img src="/GWC-logo_2016-white-on-green.jpg" />
 
 # Chapter Details
 
