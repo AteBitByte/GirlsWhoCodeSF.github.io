@@ -1,6 +1,23 @@
 /* Media Background: 77c7b0 */
 /* Page Background: 1a1a1a */
 
+summary {
+	background-color: #77c7b0;
+	font-size: 1.6em;
+	font-weight: bold;
+	padding: 8px;
+}
+
+details {
+	padding: 4px;
+	border: 1px solid;
+}
+
+details > p {
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
 figure {
 	background-color: transparent;
 	display: block;
@@ -21,4 +38,14 @@ a {
 .main-body {
 	width: 80%;
 	margin: auto;
+}
+
+.spotlight-video {
+	text-align: center;
+	
+}
+
+iframe {
+	border-style: none;
+	padding: 12px;
 }
