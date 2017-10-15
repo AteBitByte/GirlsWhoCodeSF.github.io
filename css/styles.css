@@ -57,6 +57,13 @@ li {
 
 details {
 	padding: 4px;
+}
+
+summary:focus {
+	outline: 0;
+}
+
+details[open] {
 	border: 1px solid;
 }
 
