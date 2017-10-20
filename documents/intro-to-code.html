@@ -4,7 +4,7 @@
 <title>GirlsWhoCode SF | Coding Club</title>
 <link rel="stylesheet" href="../css/styles.css">
 <meta name="description" content="A website for the GirlsWhoCode chapter in Sunset that meets at the Ortega library." />
-<meta name="keywords" content="GirlsWhoCode,Girls Who Code,programming,coding,ortega library,sunset,san francisco,female empowerment,sisterhood,nonprofit,NPO,coding club" />
+<meta name="keywords" content="GirlsWhoCode,Girls Who Code,programming,coding,san francisco,female empowerment,sisterhood,nonprofit,NPO,coding club" />
 <meta name="robots" content="index" />
 </head>
 <body class="main-body">
@@ -15,7 +15,7 @@
 	</figure>
 	
 	
-	<details open>
+	<details>
 		<summary>Basic Concepts</summary>
 		<ul>
 			<li><h2>Object-Oriented Programming</h2>
@@ -26,7 +26,78 @@
 			<p>This is basically a name that <span class="tooltip">references<span class="tooltip-text">Points to</span></span> a place where a piece of information is stored.</p>
 			<p>For example, imagine you have a school binder with labeled sections for <em>Math</em> and <em>Science</em>. You might change the paper in either section, but you know which divider takes you to which notes. In this example, <em>Math</em> and <em>Science</em> are like <em>variables</em> and the school notes they contain are the specific information they reference. This information might change as you add or remove items, but the name on the divider always tells you where your first page of notes for that subject will be.</p>
 			</li>
+			<li><h2>Computational Thinking</h2>
+				<p>Sound confusing? This is really a fancy way of saying "breaking a problem down into individual steps that, when followed <span class="tooltip">sequentially<span class="tooltip-text">In order</span></span>, produce a <span class="tooltip">desired<span class="tooltip-text">A thing you want</span></span> result". For example, if you're giving someone directions from point A to point B, you might say something like "walk two blocks, turn right, walk one block, turn left, and it's right in front of you; if the person doesn't follow these instructions in order, they aren't going to end up in the right place. And that sequence of instructions you follow? We call that an <span class="tooltip">algorithm<span class="tooltip-text">A formula or set of instructions you follow to complete a task</span></span>.</p>
+				<p>An important part of computational thinking is recognizing when you're doing the same thing over again; in other words, finding patterns and routines that use the same common algorithm. For example, you follow an algorithm when you brush your teeth! You use new toothpaste every time you brush your teeth, and you replace your toothbrush every few months, but the <em>process</em> you follow always stays the same.</p>
+			</li>
+			<li><h2>Computer Programs</h2>
+				<p>Most computer programs follow a three-step process:</p>
+				<ol>
+					<li>Receive Input</li>
+					<li>Process Input</li>
+					<li>Produce Output</li>
+				</ol>
+				<p>For example, consider the math problem "1 + 2 = 3". The <em>input</em> is "1 + 2", the <em>processing</em> is the process of performing the math given by the input, and then the <em>output</em> is the result (3). When we write computer programs, our goal is to make sure that our <em>process</em> is correct.</p>
+			</li>
 		</ul>
 	</details>
+	
+	<details>
+	<summary>Conditionals</summary>
+	<ul>
+		<li><h2>Boolean Logic</h2>
+			<p>The word <em>boolean</em> is just a fancy way of saying "something that is true or false". For example, whether or not something is an apple is a <em>boolean condition</em>, because something is either an apple or it's not. We use boolean logic in programming to decide <em>when</em> to do something.</p>
+		</li>
+		<li><h2>Conditional Statements</h2>
+			<p>This is a way of coding a response to some boolean condition. For example, if an object is an apple, we want to take a bite out of it; if the object is not an apple (maybe it's a chair), then we may or may not want to choose to do something else.</p>
+			<p>The most basic conditional statement in programming is the <em>if-else</em> statement. Let's say we have a variable named <code>my_condition</code>; in python, we could write the following conditional statements:
+<pre><code>if my_condition:
+    # This happens when my_condition is true
+    print("I'm true!")</code></pre>
+<pre><code>if my_condition:
+    # This happens when my_condition is true
+    print("I'm true!")
+else:
+    # This happens when my_condition is false
+    print("I'm false!")</code></pre>
+Now, let's say we have multiple things we want to check, like in our apple scenario. We can add an <em>else-if</em> statement between our <em>if</em> and our <em>else</em>:
+<pre><code>if is_apple(my_object):
+    # Write code here to take a bite
+elif is_chair(my_object):
+    # Write code here to sit in it
+else:
+    print("The object is not an apple or a chair.").
+</code></pre>    
+			</p>
+			<p>It's important to notice the following rules:</p>
+			<ul>
+				<li>The first conditional is always <em>if</em>.</li>
+				<li>Any conditionals between an <em>if</em> and an <em>else</em> should be <em>else-if</em> statements.</li>
+				<li>The <em>else</em> statement will only run if everything above it evaluates to <em>false</em>.</li>
+				<li>The <em>else</em> statement is optional.</li>
+				<li>Only <em>one</em> statement in a group of chained conditional statements will ever run.</li>
+			</ul>
+		</li>
+	</ul>
+</details>
+	
+<!-- 
+	</details>
+	<details>
+	<summary>Loops</summary>
+		<ul>
+			<li><h2>for loop</h2>
+			<p></p>
+		</ul>
+	</details>
+ -->
+	
+	<h1>Recommended Resources</h1>
+	<ul>
+		<li><a href="http://www.tynker.com/hour-of-code/" target="_blank">Tynker</a></li>
+		<li><a href="http://www.madewithcode.com" target="_blank">Made With Code</a></li>
+		<li><a href="http://www.khanacademy.org/computing" target="_blank">Khan Academy</a></li>
+		<li><a href="http://www.commonsense.org/education/top-picks/best-apps-and-websites-for-learning-programming-and-coding" target="_blank">CommonSense</a></li>
+	</ul>
 </body>
 </html>

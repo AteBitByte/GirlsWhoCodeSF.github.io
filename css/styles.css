@@ -22,6 +22,10 @@ li {
 	margin: auto;
 }
 
+pre {
+	background: grey;
+}
+
 .tooltip {
 	font-style: italic;
 	font-weight: bold;
