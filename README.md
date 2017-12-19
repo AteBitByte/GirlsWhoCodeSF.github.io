@@ -1,39 +1,3 @@
-<a href="http://hq.girlswhocode.com" target="_blank"><img src="/GWC-logo_2016-white-on-green.jpg" /></a>
-
-# Chapter Details
-
-Students must register at <a href="http://hq.girlswhocode.com" target="_blank">hq.girlswhocode.com</a>.
-
-----
-
-## Club Code: `CA2463`
-
-----
-
-## Time
-Every Thursday from 6:30PM to 8:30PM. 
-
-----
-
-## Location
-The <a href="https://sfpl.org/index.php?pg=0100001601" target="_blank">Ortega library</a> located at <a href="https://www.google.com/maps/dir/''/3223+Ortega+St+San+Francisco,+CA+94122" target="_blank">3223 Ortega Street, San Francisco, 94122</a>.
-
----- 
-
-## Facilitators
-
-### Amy Yin
-### Cindy Gao
-### Estelle Puccio
-### Allison Phillips
-### Cissy Chen
-
-----
-
-<!-- ## Contact
-girlswhocodesf@googlegroups.com -->
-
-
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GirlsWhoCodeSF/GirlsWhoCodeSF.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
